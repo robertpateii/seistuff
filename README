@@ -2,3 +2,4 @@ A converter to hex for text files on Windows. the core while loop was from an
 exercise in a text book (head first c#), but I've added comments to the loop
 and expanded some around it. I may tweak this more in the future just for
 practice.
+
